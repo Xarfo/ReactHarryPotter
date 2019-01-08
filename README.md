@@ -1,2 +1,0 @@
-# ReactHarryPotter
-Created with CodeSandbox
